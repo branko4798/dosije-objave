@@ -1,0 +1,16 @@
+name = "budilnik-dosije"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+[vars]
+REPO = "branko4798/dosije-objave"
+WORKFLOW = "objavi.yml"
+GRANA = "main"
+
+# Cloudflare cron ide po UTC-u, zato „svaki sat"; koji je sat u Beogradu računa
+# worker, pa letnje/zimsko vreme ne traži izmenu.
+[triggers]
+crons = ["3 * * * *"]
+
+[observability]
+enabled = true

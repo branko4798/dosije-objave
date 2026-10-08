@@ -1,7 +1,10 @@
 name: Objavi
 on:
   schedule:
-    - cron: "0,15,30,45 17-19 * * *"   # 19h Beograd = 17 UTC leti, 18 UTC zimi
+    # GitHub zakazana pokretanja kasne ili ih preskače (najviše oko punog sata), zato
+    # gusto, na „neparne" minute, 19:07–23:57 Beograd. publish.py objavljuje tek kad je
+    # objava dospela i nikad dvaput.
+    - cron: "7,17,27,37,47,57 17-21 * * *"   # 19h Beograd = 17 UTC leti, 18 UTC zimi
   workflow_dispatch:
     inputs:
       dry_run:
@@ -18,6 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }   # najnoviji posted.json, ne stanje iz trenutka okidanja
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: python publish.py
@@ -28,4 +32,5 @@ jobs:
       - if: always()
         run: |
           git config user.name "dosije-objave"; git config user.email "actions@users.noreply.github.com"
-          git add posted.json 2>/dev/null && git commit -qm "Objavljeno $(date -u +%F)" && git push -q || true
+          git add posted.json 2>/dev/null && git commit -qm "Objavljeno $(date -u +%F)" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done; exit 1

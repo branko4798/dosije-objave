@@ -1,0 +1,578 @@
+[
+ {
+  "id": "k12",
+  "date": "2026-10-08",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "12 – Džek Trbosek",
+  "caption": "London, 1888. Za deset nedelja u Vajtčepelu ubijeno je pet žena.\n\nPolicija je dobila pismo „iz pakla\" i kutiju sa pola ljudskog bubrega. Uhapšen nije niko.",
+  "images": [
+   "img/k12/01.jpg",
+   "img/k12/02.jpg",
+   "img/k12/03.jpg",
+   "img/k12/04.jpg",
+   "img/k12/05.jpg",
+   "img/k12/06.jpg",
+   "img/k12/07.jpg",
+   "img/k12/08.jpg",
+   "img/k12/09.jpg",
+   "img/k12/10.jpg"
+  ]
+ },
+ {
+  "id": "k03",
+  "date": "2026-10-09",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "03 – Majski prevrat",
+  "caption": "Noć 11. juna 1903. Oficiri su u dvoru našli tople krevete, ali ne i kralja i kraljicu.\n\nTražili su ih dva sata. Neko je na kraju znao gde da pogledaju.",
+  "images": [
+   "img/k03/01.jpg",
+   "img/k03/02.jpg",
+   "img/k03/03.jpg",
+   "img/k03/04.jpg",
+   "img/k03/05.jpg",
+   "img/k03/06.jpg",
+   "img/k03/07.jpg",
+   "img/k03/08.jpg",
+   "img/k03/09.jpg",
+   "img/k03/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c17-mrzeces",
+  "date": "2026-10-10",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C17-mrzeces",
+  "caption": "Počinjete kao par. Posle tri sata ste dvoje istražitelja koji ne veruju jedno drugom.",
+  "images": [
+   "img/s-c17-mrzeces/01.jpg"
+  ]
+ },
+ {
+  "id": "k19",
+  "date": "2026-10-11",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "19 – Djatlov",
+  "caption": "Severni Ural, 1959. Devetoro planinara iseklo je šator iznutra i otišlo niz padinu, neki bosi.\n\nNiko nije preživeo. Istraga je kao uzrok navela „silu prirode\".",
+  "images": [
+   "img/k19/01.jpg",
+   "img/k19/02.jpg",
+   "img/k19/03.jpg",
+   "img/k19/04.jpg",
+   "img/k19/05.jpg",
+   "img/k19/06.jpg",
+   "img/k19/07.jpg",
+   "img/k19/08.jpg",
+   "img/k19/09.jpg",
+   "img/k19/10.jpg"
+  ]
+ },
+ {
+  "id": "s-d6-mladenovac",
+  "date": "2026-10-12",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "D6-mladenovac",
+  "caption": "Dobila je 187 miliona na lotou. Kao milionerka živela je tačno sedam dana.",
+  "images": [
+   "img/s-d6-mladenovac/01.jpg"
+  ]
+ },
+ {
+  "id": "k01",
+  "date": "2026-10-13",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "01 – Blagojević",
+  "caption": "Kisiljevo, 1725. Za osam dana umire devetoro ljudi, a svi pred smrt pominju istog čoveka.\n\nCarski činovnik Frombald otvara grob Petra Blagojevića i zapisuje šta je video. Taj izveštaj stariji je od „Drakule\" 172 godine.",
+  "images": [
+   "img/k01/01.jpg",
+   "img/k01/02.jpg",
+   "img/k01/03.jpg",
+   "img/k01/04.jpg",
+   "img/k01/05.jpg",
+   "img/k01/06.jpg",
+   "img/k01/07.jpg",
+   "img/k01/08.jpg",
+   "img/k01/09.jpg",
+   "img/k01/10.jpg"
+  ]
+ },
+ {
+  "id": "k21",
+  "date": "2026-10-14",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "21 – Olof Palme",
+  "caption": "Stokholm, 28. februar 1986. Olof Palme izlazi iz bioskopa, a u 23:21 neko puca u njega s leđa.\n\nTužilaštvo je 2020. reklo da zna ko je ubica. Pet godina kasnije reklo je da to ne može da dokaže.",
+  "images": [
+   "img/k21/01.jpg",
+   "img/k21/02.jpg",
+   "img/k21/03.jpg",
+   "img/k21/04.jpg",
+   "img/k21/05.jpg",
+   "img/k21/06.jpg",
+   "img/k21/07.jpg",
+   "img/k21/08.jpg",
+   "img/k21/09.jpg",
+   "img/k21/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c14-utisak",
+  "date": "2026-10-15",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C14-utisak",
+  "caption": "Utisak jednog igrača posle Dosijea Rtanj: zbog realističnih detalja zaboravite da je priča izmišljena.",
+  "images": [
+   "img/s-c14-utisak/01.jpg"
+  ]
+ },
+ {
+  "id": "k16",
+  "date": "2026-10-16",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "16 – Knez Mihailo",
+  "caption": "Košutnjak, 10. jun 1868. Dvojica muškaraca prilaze kneževim kočijama kod Hajdučke česme.\n\nBeogradski sud optužio je Karađorđeviće. Sud u Pešti rekao je da dokaza nema.",
+  "images": [
+   "img/k16/01.jpg",
+   "img/k16/02.jpg",
+   "img/k16/03.jpg",
+   "img/k16/04.jpg",
+   "img/k16/05.jpg",
+   "img/k16/06.jpg",
+   "img/k16/07.jpg",
+   "img/k16/08.jpg",
+   "img/k16/09.jpg",
+   "img/k16/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c12-staklo",
+  "date": "2026-10-17",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C12-staklo",
+  "caption": "Za večeri kada niko ne zna šta bi. Dosije Petrovaradin, više od 35 dokaza.",
+  "images": [
+   "img/s-c12-staklo/01.jpg"
+  ]
+ },
+ {
+  "id": "k14",
+  "date": "2026-10-18",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "14 – Žena iz Isdala",
+  "caption": "Bergen, 1970. U Dolini leda nađeno je spaljeno žensko telo, a sa njene odeće neko je skinuo sve etikete.\n\nU njenim koferima bile su perike, naočare bez dioptrije i šifrovane beleške. Ime joj se ni danas ne zna.",
+  "images": [
+   "img/k14/01.jpg",
+   "img/k14/02.jpg",
+   "img/k14/03.jpg",
+   "img/k14/04.jpg",
+   "img/k14/05.jpg",
+   "img/k14/06.jpg",
+   "img/k14/07.jpg",
+   "img/k14/08.jpg",
+   "img/k14/09.jpg",
+   "img/k14/10.jpg"
+  ]
+ },
+ {
+  "id": "k04",
+  "date": "2026-10-19",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "04 – Tesla",
+  "caption": "Nikola Tesla umro je u januaru 1943, u njujorškoj sobi 3327.\n\nZa nekoliko dana njegovim stvarima bavili su se FBI, Ministarstvo pravde i mornarička obaveštajna služba. Do Beograda nije stiglo sve.",
+  "images": [
+   "img/k04/01.jpg",
+   "img/k04/02.jpg",
+   "img/k04/03.jpg",
+   "img/k04/04.jpg",
+   "img/k04/05.jpg",
+   "img/k04/06.jpg",
+   "img/k04/07.jpg",
+   "img/k04/08.jpg",
+   "img/k04/09.jpg",
+   "img/k04/10.jpg",
+   "img/k04/11.jpg"
+  ]
+ },
+ {
+  "id": "s-d6-petrovaradin",
+  "date": "2026-10-20",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "D6-petrovaradin",
+  "caption": "Novi Sad, 2018. Umro je od alergije usred snimanja. Nesrećan slučaj, ili je neko sve podmetnuo?",
+  "images": [
+   "img/s-d6-petrovaradin/01.jpg"
+  ]
+ },
+ {
+  "id": "k15",
+  "date": "2026-10-21",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "15 – Hinterkaifeck",
+  "caption": "Bavarska, 1922. Na imanju Hinterkaifeck ubijeno je šestoro ljudi.\n\nPrema iskazima, neko je posle toga hranio stoku i ložio peć. Novac u ormanu nije dirnut.",
+  "images": [
+   "img/k15/01.jpg",
+   "img/k15/02.jpg",
+   "img/k15/03.jpg",
+   "img/k15/04.jpg",
+   "img/k15/05.jpg",
+   "img/k15/06.jpg",
+   "img/k15/07.jpg",
+   "img/k15/08.jpg",
+   "img/k15/09.jpg",
+   "img/k15/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c20-beleska",
+  "date": "2026-10-22",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C20-beleska",
+  "caption": "Skrolovali ste 45 minuta i ništa niste našli. Otvorite dosije: pravi dokazi, izjave svedoka, a ubicu tražite vi.",
+  "images": [
+   "img/s-c20-beleska/01.jpg"
+  ]
+ },
+ {
+  "id": "k18",
+  "date": "2026-10-23",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "18 – Marselj 1934",
+  "caption": "Marselj, 9. oktobar 1934. Čovek iskače iz gomile, skače na papučicu kraljevog automobila i puca.\n\nAtentator umire istog dana. Kod njega su nađeni lažni pasoš, dva pištolja i dve bombe.",
+  "images": [
+   "img/k18/01.jpg",
+   "img/k18/02.jpg",
+   "img/k18/03.jpg",
+   "img/k18/04.jpg",
+   "img/k18/05.jpg",
+   "img/k18/06.jpg",
+   "img/k18/07.jpg",
+   "img/k18/08.jpg",
+   "img/k18/09.jpg",
+   "img/k18/10.jpg"
+  ]
+ },
+ {
+  "id": "k13",
+  "date": "2026-10-24",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "13 – Agata Kristi",
+  "caption": "Decembar 1926. Kola Agate Kristi nađena su kod kamenoloma, sa upaljenim farovima.\n\nJedanaest dana kasnije pojavila se u hotelu u Jorkširu, pod tuđim prezimenom. Nikada nije objasnila zašto.",
+  "images": [
+   "img/k13/01.jpg",
+   "img/k13/02.jpg",
+   "img/k13/03.jpg",
+   "img/k13/04.jpg",
+   "img/k13/05.jpg",
+   "img/k13/06.jpg",
+   "img/k13/07.jpg",
+   "img/k13/08.jpg",
+   "img/k13/09.jpg",
+   "img/k13/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c2-vikend",
+  "date": "2026-10-25",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C2-vikend",
+  "caption": "Ako tražite šta da radite ovog vikenda, slučaj je već spreman.",
+  "images": [
+   "img/s-c2-vikend/01.jpg"
+  ]
+ },
+ {
+  "id": "k05",
+  "date": "2026-10-26",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "05 – Tito",
+  "caption": "Jesen 1977. Analitičar NSA ne sluša šta Tito govori, nego kako.\n\nPo njemu, Tito naš jezik nije govorio kao maternji. Nije bio prvi koji je posumnjao.",
+  "images": [
+   "img/k05/01.jpg",
+   "img/k05/02.jpg",
+   "img/k05/03.jpg",
+   "img/k05/04.jpg",
+   "img/k05/05.jpg",
+   "img/k05/06.jpg",
+   "img/k05/07.jpg",
+   "img/k05/08.jpg",
+   "img/k05/09.jpg",
+   "img/k05/10.jpg"
+  ]
+ },
+ {
+  "id": "s-d3-dedinje",
+  "date": "2026-10-27",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "D3-dedinje",
+  "caption": "Beograd, 1927. Ubistvo na Dedinju je naš najnoviji slučaj.",
+  "images": [
+   "img/s-d3-dedinje/01.jpg"
+  ]
+ },
+ {
+  "id": "k20",
+  "date": "2026-10-28",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "20 – Somerton",
+  "caption": "Adelaida, 1948. Muškarac bez dokumenata nađen je mrtav na plaži, a sa odeće su mu isečene etikete.\n\nU skrivenom džepu nosio je papirić sa dve reči: „Tamám Shud\". Završeno.",
+  "images": [
+   "img/k20/01.jpg",
+   "img/k20/02.jpg",
+   "img/k20/03.jpg",
+   "img/k20/04.jpg",
+   "img/k20/05.jpg",
+   "img/k20/06.jpg",
+   "img/k20/07.jpg",
+   "img/k20/08.jpg",
+   "img/k20/09.jpg",
+   "img/k20/10.jpg"
+  ]
+ },
+ {
+  "id": "k17",
+  "date": "2026-10-29",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "17 – Karađorđe",
+  "caption": "Karađorđe je preživeo ustanak, poraz i izgnanstvo. Nije preživeo jednu noć u kolibi koju mu je našao sopstveni kum.\n\nKo je udario sekirom, zna se. Ko je to naredio, ni posle dva veka nije sasvim jasno.",
+  "images": [
+   "img/k17/01.jpg",
+   "img/k17/02.jpg",
+   "img/k17/03.jpg",
+   "img/k17/04.jpg",
+   "img/k17/05.jpg",
+   "img/k17/06.jpg",
+   "img/k17/07.jpg",
+   "img/k17/08.jpg",
+   "img/k17/09.jpg",
+   "img/k17/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c24-samo-papir",
+  "date": "2026-10-30",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C24-samo-papir",
+  "caption": "„To je samo papir.\" Evo šta je zapravo u dosijeu.",
+  "images": [
+   "img/s-c24-samo-papir/01.jpg"
+  ]
+ },
+ {
+  "id": "k07",
+  "date": "2026-10-31",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "07 – Baba Vanga",
+  "caption": "Baba Vanga je bila slepa i polupismena, a pisanih zapisa njenih proročanstava nema.\n\nTabloidi ipak svake godine objave nova.",
+  "images": [
+   "img/k07/01.jpg",
+   "img/k07/02.jpg",
+   "img/k07/03.jpg",
+   "img/k07/04.jpg",
+   "img/k07/05.jpg",
+   "img/k07/06.jpg",
+   "img/k07/07.jpg",
+   "img/k07/08.jpg",
+   "img/k07/09.jpg",
+   "img/k07/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c7-rukopis",
+  "date": "2026-11-01",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C7-rukopis",
+  "caption": "Nemate ništa isplanirano za večeras? Rešite ubistvo.",
+  "images": [
+   "img/s-c7-rukopis/01.jpg"
+  ]
+ },
+ {
+  "id": "k02",
+  "date": "2026-11-02",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "02 – Duško Popov",
+  "caption": "Duško Popov iz Titela radio je za Nemce, a sve javljao Britancima.\n\nLeta 1941. doneo je u Ameriku nemački spisak pitanja. Prema britanskom oficiru Mastermanu, trećina se odnosila na jedno mesto na Havajima.",
+  "images": [
+   "img/k02/01.jpg",
+   "img/k02/02.jpg",
+   "img/k02/03.jpg",
+   "img/k02/04.jpg",
+   "img/k02/05.jpg",
+   "img/k02/06.jpg",
+   "img/k02/07.jpg",
+   "img/k02/08.jpg",
+   "img/k02/09.jpg",
+   "img/k02/10.jpg"
+  ]
+ },
+ {
+  "id": "k10",
+  "date": "2026-11-03",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "10 – Drekavac",
+  "caption": "Između Božića i Bogojavljenja, posle ponoći, sa groblja se čuje krik nalik dečjem plaču.\n\nNiko se nije složio kako drekavac izgleda. Jednom je odgovor stigao sa Veterinarskog fakulteta.",
+  "images": [
+   "img/k10/01.jpg",
+   "img/k10/02.jpg",
+   "img/k10/03.jpg",
+   "img/k10/04.jpg",
+   "img/k10/05.jpg",
+   "img/k10/06.jpg",
+   "img/k10/07.jpg",
+   "img/k10/08.jpg",
+   "img/k10/09.jpg",
+   "img/k10/10.jpg"
+  ]
+ },
+ {
+  "id": "s-d6-dedinje",
+  "date": "2026-11-04",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "D6-dedinje",
+  "caption": "U vili na Dedinju desila se tragedija. Možete li da pronađete ubicu?",
+  "images": [
+   "img/s-d6-dedinje/01.jpg"
+  ]
+ },
+ {
+  "id": "k06",
+  "date": "2026-11-05",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "06 – Rtanj",
+  "caption": "21. decembar 2012. Svet čeka smak sveta, a svi hoteli oko Rtnja su puni.\n\nNije se desilo ništa. Priče o Šiljku nisu prestale.",
+  "images": [
+   "img/k06/01.jpg",
+   "img/k06/02.jpg",
+   "img/k06/03.jpg",
+   "img/k06/04.jpg",
+   "img/k06/05.jpg",
+   "img/k06/06.jpg",
+   "img/k06/07.jpg",
+   "img/k06/08.jpg",
+   "img/k06/09.jpg",
+   "img/k06/10.jpg",
+   "img/k06/11.jpg"
+  ]
+ },
+ {
+  "id": "s-c9-poklon",
+  "date": "2026-11-06",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C9-poklon",
+  "caption": "Poklon za nekoga ko voli misterije: slučaj koji može da reši sam, ili zajedno sa vama.",
+  "images": [
+   "img/s-c9-poklon/01.jpg"
+  ]
+ },
+ {
+  "id": "k09",
+  "date": "2026-11-07",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "09 – Vlaška magija",
+  "caption": "Duboka kod Kučeva, Duhovi 1952. Ekipa Srpske akademije nauka gleda kako žene, uz klarinet i bubanj, padaju u trans.\n\nSvaki naučnik video je nešto drugo. Do 1985. obred je nestao.",
+  "images": [
+   "img/k09/01.jpg",
+   "img/k09/02.jpg",
+   "img/k09/03.jpg",
+   "img/k09/04.jpg",
+   "img/k09/05.jpg",
+   "img/k09/06.jpg",
+   "img/k09/07.jpg",
+   "img/k09/08.jpg",
+   "img/k09/09.jpg",
+   "img/k09/10.jpg"
+  ]
+ },
+ {
+  "id": "k08",
+  "date": "2026-11-08",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "08 – Vuk Branković",
+  "caption": "Kosovo, 1389. Vuk Branković preživljava bitku i izvlači svoju vojsku.\n\nIzdajnikom ga je izričito nazvao tek jedan dubrovački pisac, 212 godina kasnije.",
+  "images": [
+   "img/k08/01.jpg",
+   "img/k08/02.jpg",
+   "img/k08/03.jpg",
+   "img/k08/04.jpg",
+   "img/k08/05.jpg",
+   "img/k08/06.jpg",
+   "img/k08/07.jpg",
+   "img/k08/08.jpg",
+   "img/k08/09.jpg",
+   "img/k08/10.jpg"
+  ]
+ },
+ {
+  "id": "s-d9-detektiv",
+  "date": "2026-11-09",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "D9-detektiv",
+  "caption": "Sklapajte dokaze, pratite tragove i rešite slučaj. Od jednog do deset igrača.",
+  "images": [
+   "img/s-d9-detektiv/01.jpg"
+  ]
+ },
+ {
+  "id": "k11",
+  "date": "2026-11-10",
+  "time": "19:00",
+  "kind": "Karusel",
+  "name": "11 – Đavolja varoš",
+  "caption": "Na padinama Radana stoje 202 kamene figure. Legenda kaže da su to okamenjeni svatovi.\n\nJedan deo te priče je stvaran: đavolja voda zaista izvire ispod figura.",
+  "images": [
+   "img/k11/01.jpg",
+   "img/k11/02.jpg",
+   "img/k11/03.jpg",
+   "img/k11/04.jpg",
+   "img/k11/05.jpg",
+   "img/k11/06.jpg",
+   "img/k11/07.jpg",
+   "img/k11/08.jpg",
+   "img/k11/09.jpg",
+   "img/k11/10.jpg"
+  ]
+ },
+ {
+  "id": "s-c4-izvinjavamo",
+  "date": "2026-11-11",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "C4-izvinjavamo",
+  "caption": "Bili smo toliko zauzeti pravljenjem slučajeva da smo zaboravili da vam kažemo šta je u njima.",
+  "images": [
+   "img/s-c4-izvinjavamo/01.jpg"
+  ]
+ }
+]

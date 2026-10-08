@@ -1,0 +1,31 @@
+name: Objavi
+on:
+  schedule:
+    - cron: "0,15,30,45 17-19 * * *"   # 19h Beograd = 17 UTC leti, 18 UTC zimi
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Proba bez objave (1 = da)"
+        default: "1"
+      only_id:
+        description: "Objavi baš ovu objavu (npr. k12), prazno = sledeća dospela"
+        default: ""
+permissions:
+  contents: write
+concurrency: objavi
+jobs:
+  objavi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python publish.py
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          ONLY_ID: ${{ github.event.inputs.only_id || '' }}
+      - if: always()
+        run: |
+          git config user.name "dosije-objave"; git config user.email "actions@users.noreply.github.com"
+          git add posted.json 2>/dev/null && git commit -qm "Objavljeno $(date -u +%F)" && git push -q || true

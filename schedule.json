@@ -286,6 +286,16 @@
   ]
  },
  {
+  "id": "r-v04",
+  "date": "2026-10-24",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "V04 - Izazov",
+  "caption": "Da li si dovoljno sposoban da rešiš ubistvo? Na vrata ti stiže dosije pun izjava, zapisnika, pisama i fotografija, a samo ti možeš da otkriješ ko je kriv.\n\nOkupi ekipu ili reši slučaj sa svojim partnerom.",
+  "images": [],
+  "video": "img/r-v04/01.mp4"
+ },
+ {
   "id": "s-c2-vikend",
   "date": "2026-10-25",
   "time": "19:00",
@@ -295,6 +305,16 @@
   "images": [
    "img/s-c2-vikend/01.jpg"
   ]
+ },
+ {
+  "id": "r-v02",
+  "date": "2026-10-25",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "V02 - Petak veče",
+  "caption": "Petak veče: pica, sveće i jedno nerešeno ubistvo.\n\nNa stolu su izjave, zapisnici i fotografije, a ubicu otkrivate vi.",
+  "images": [],
+  "video": "img/r-v02/01.mp4"
  },
  {
   "id": "k05",
@@ -317,6 +337,16 @@
   ]
  },
  {
+  "id": "r-v01",
+  "date": "2026-10-26",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "V01 - Rtanj",
+  "caption": "Na vrhu Rtnja, u istraživačkoj stanici „Šiljak“, pronađen je mrtav upravnik stanice. Snežna oluja je odsekla stanicu od sveta, a na stanici je bilo devetoro ljudi.\n\nOsmoro je dalo izjavu. Deveti je odbio.",
+  "images": [],
+  "video": "img/r-v01/01.mp4"
+ },
+ {
   "id": "s-d3-dedinje",
   "date": "2026-10-27",
   "time": "19:00",
@@ -326,6 +356,16 @@
   "images": [
    "img/s-d3-dedinje/01.jpg"
   ]
+ },
+ {
+  "id": "r-v03",
+  "date": "2026-10-27",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "V03 - Mladenovac",
+  "caption": "Anđela Vasić, frizerka od 23 godine, dobila je na lotou 187 miliona dinara. Sedam dana kasnije pronađena je mrtva u parku Selters banje, posle večere sa ocem.\n\nOca je policija uhapsila na železničkoj stanici. Motiv ima još petoro ljudi.",
+  "images": [],
+  "video": "img/r-v03/01.mp4"
  },
  {
   "id": "k20",

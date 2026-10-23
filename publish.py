@@ -30,8 +30,8 @@ def call(method, path, **params):
         raise RuntimeError(f"{method} {path}: {e.code} {e.read().decode()[:500]}")
 
 
-def wait_ready(cid):
-    for _ in range(30):
+def wait_ready(cid, tries=30):
+    for _ in range(tries):
         s = call("GET", cid, fields="status_code").get("status_code")
         if s == "FINISHED":
             return
@@ -42,6 +42,13 @@ def wait_ready(cid):
 
 
 def instagram(post):
+    if post.get("video"):
+        cid = call("POST", f"{IG_ID}/media", media_type="REELS", video_url=BASE + post["video"],
+                   caption=post["caption"], share_to_feed="true")["id"]
+        wait_ready(cid, tries=90)   # video se obrađuje i po nekoliko minuta
+        if DRY:
+            return f"dry:{cid}"
+        return call("POST", f"{IG_ID}/media_publish", creation_id=cid)["id"]
     urls = [BASE + p for p in post["images"]]
     if len(urls) == 1:
         cid = call("POST", f"{IG_ID}/media", image_url=urls[0], caption=post["caption"])["id"]
@@ -57,7 +64,26 @@ def instagram(post):
     return call("POST", f"{IG_ID}/media_publish", creation_id=cid)["id"]
 
 
+def facebook_reel(post):
+    # Reels na stranici: start → Meta sama preuzme video sa adrese → finish (objavi)
+    vid = call("POST", f"{PAGE_ID}/video_reels", upload_phase="start")["video_id"]
+    if DRY:
+        return f"dry:{vid}"
+    req = urllib.request.Request(f"https://rupload.facebook.com/video-upload/v26.0/{vid}", method="POST",
+                                 headers={"Authorization": f"OAuth {TOKEN}", "file_url": BASE + post["video"]})
+    try:
+        with urllib.request.urlopen(req, timeout=300) as r:
+            json.load(r)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"upload {vid}: {e.code} {e.read().decode()[:500]}")
+    call("POST", f"{PAGE_ID}/video_reels", upload_phase="finish", video_id=vid,
+         video_state="PUBLISHED", description=post["caption"])
+    return vid
+
+
 def facebook(post):
+    if post.get("video"):
+        return facebook_reel(post)
     urls = [BASE + p for p in post["images"]]
     if DRY:
         return "dry:" + call("GET", PAGE_ID, fields="name")["name"]
@@ -80,7 +106,7 @@ def main():
         return
     post = due[0]
     rec = posted.setdefault(post["id"], {})
-    print(f"Objava: {post['id']} {post['name']} ({len(post['images'])} slika){' [DRY]' if DRY else ''}")
+    print(f"Objava: {post['id']} {post['name']} ({'video' if post.get('video') else str(len(post['images'])) + ' slika'}){' [DRY]' if DRY else ''}")
     errors = []
     for key, fn in (("ig", instagram), ("fb", facebook)):
         if rec.get(key):

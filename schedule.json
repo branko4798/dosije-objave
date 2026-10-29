@@ -408,6 +408,16 @@
   ]
  },
  {
+  "id": "r-o01",
+  "date": "2026-10-29",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 01 - Kisiljevo",
+  "caption": "Kisiljevo kod Velikog Gradišta, 1725. Za osam dana umire devetoro ljudi, a svi pred smrt pominju istog čoveka.\n\nCarski činovnik otvara grob Petra Blagojevića i zapisuje šta je video. Šta se zaista desilo u Kisiljevu?",
+  "images": [],
+  "video": "img/r-o01/01.mp4"
+ },
+ {
   "id": "s-c24-samo-papir",
   "date": "2026-10-30",
   "time": "19:00",
@@ -417,6 +427,16 @@
   "images": [
    "img/s-c24-samo-papir/01.jpg"
   ]
+ },
+ {
+  "id": "r-o02",
+  "date": "2026-10-30",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 02 - Knez Mihailo",
+  "caption": "Knez Mihailo ubijen je usred bela dana u Košutnjaku, 1868. godine, a ubice su uhvaćene za samo nekoliko sati.\n\nPa ipak, ni danas se ne zna ko je stajao iza njih.",
+  "images": [],
+  "video": "img/r-o02/01.mp4"
  },
  {
   "id": "k07",
@@ -439,6 +459,16 @@
   ]
  },
  {
+  "id": "r-o03",
+  "date": "2026-10-31",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 03 - Drekavac",
+  "caption": "Po selima na Balkanu verovalo se da noću oko kuća vrišti biće koje najavljuje smrt.\n\nDevedesetih su novine pisale da su ga seljaci i pronašli. Šta su zapravo pronašli?",
+  "images": [],
+  "video": "img/r-o03/01.mp4"
+ },
+ {
   "id": "s-c7-rukopis",
   "date": "2026-11-01",
   "time": "19:00",
@@ -448,6 +478,16 @@
   "images": [
    "img/s-c7-rukopis/01.jpg"
   ]
+ },
+ {
+  "id": "r-o04",
+  "date": "2026-11-01",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 04 - Rtanj",
+  "caption": "Na samom vrhu Rtnja stoje ruševine kapele koju je jedna udovica podigla svom mužu.\n\nKupolu su srušili posle rata, a zidove ljudi sa dinamitom koji su tražili zlato. Šta se zaista krije u Rtnju?",
+  "images": [],
+  "video": "img/r-o04/01.mp4"
  },
  {
   "id": "k02",
@@ -470,6 +510,16 @@
   ]
  },
  {
+  "id": "r-o05",
+  "date": "2026-11-02",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 05 - Vlaška magija",
+  "caption": "Jednom godišnje, na Duhove, žene u jednom vlaškom selu padale su u trans, a ljudi su verovali da tada razgovaraju sa mrtvima.\n\nNaučnici su došli da to vide svojim očima. Tridesetak godina kasnije od obreda nije ostalo ništa.",
+  "images": [],
+  "video": "img/r-o05/01.mp4"
+ },
+ {
   "id": "k10",
   "date": "2026-11-03",
   "time": "19:00",
@@ -488,6 +538,16 @@
    "img/k10/09.jpg",
    "img/k10/10.jpg"
   ]
+ },
+ {
+  "id": "r-o06",
+  "date": "2026-11-03",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 06 - Đavolja varoš",
+  "caption": "Na Radanu, kod Kuršumlije, stoje 202 zemljane figure sa kamenom na vrhu, kao kapom.\n\nNarod kaže da to nisu stene, nego svatovi koji su se okamenili usred svadbe.",
+  "images": [],
+  "video": "img/r-o06/01.mp4"
  },
  {
   "id": "s-d6-dedinje",

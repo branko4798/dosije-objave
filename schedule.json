@@ -561,6 +561,16 @@
   ]
  },
  {
+  "id": "r-o07",
+  "date": "2026-11-04",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 07 - Kisiljevo (stil S4)",
+  "caption": "Kisiljevo kod Velikog Gradišta, 1725. Za osam dana umire devetoro ljudi, a svi pred smrt pominju istog čoveka.\n\nCarski činovnik otvara grob Petra Blagojevića i zapisuje šta je video. Šta se zaista desilo u Kisiljevu?\n\nSlike: Wikimedia Commons; Milamilosavljevic (CC BY-SA 4.0), Suffolk County Council / Andrew Brown (CC BY-SA 2.0), York Museums Trust / Dot Boughton (CC BY-SA 2.0)",
+  "images": [],
+  "video": "img/r-o07/01.mp4"
+ },
+ {
   "id": "k06",
   "date": "2026-11-05",
   "time": "19:00",
@@ -630,6 +640,16 @@
    "img/k08/09.jpg",
    "img/k08/10.jpg"
   ]
+ },
+ {
+  "id": "r-o08",
+  "date": "2026-11-08",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels 08 - Rtanj (stil S1 Apple)",
+  "caption": "Na samom vrhu Rtnja stoje ruševine kapele koju je jedna udovica podigla svom mužu.\n\nKupolu su srušili posle rata, a zidove ljudi sa dinamitom koji su tražili zlato. Šta se zaista krije u Rtnju?\n\nSlike: Wikimedia Commons; Ukicitywalker, MacSRB, Cedomir Zarkovic, Milos Krstic, IgM88, GuidoB~dewiki, Stadtigel, Varijabilna veverica (CC BY-SA 4.0), Rifat Kulenović (CC BY-SA 3.0), Dojchin (CC BY-SA 4.0), Geologicharka (CC BY-SA 3.0)",
+  "images": [],
+  "video": "img/r-o08/01.mp4"
  },
  {
   "id": "s-d9-detektiv",

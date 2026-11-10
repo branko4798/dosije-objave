@@ -762,5 +762,48 @@
   "caption": "Pre sto godina u Engleskoj je nestala Agata Kristi, poznata književnica. Njena kola nađena su na ivici kamenoloma, sa upaljenim farovima, a unutra bunda i kofer.\n\nPosle jedanaest dana pronađena je živa, u banjskom hotelu, prijavljena pod prezimenom ljubavnice svog muža. Gde je bila i zašto?\n\nSlike: Wikimedia Commons; Albury visual services (CC BY-SA 4.0), Colin Smith (CC BY-SA 2.0), Malcolma (CC BY 2.5), Dragon tomato (CC BY 3.0), Fortepan / Szent-Istvány Dezső (CC BY-SA 3.0)",
   "images": [],
   "video": "img/r-o16/01.mp4"
+ },
+ {
+  "id": "s-cp-3-koraka",
+  "date": "2026-11-10",
+  "time": "14:45",
+  "kind": "Slika",
+  "name": "Crni petak - 3 koraka (za pin)",
+  "caption": "Rešavaš ubistvo u 3 koraka: izabereš jedan od naša 4 dosijea, dosije sa dokazima stigne na kućnu adresu, a onda sam ili sa društvom tražiš ubicu. Za Crni petak uz svaku porudžbinu dobijaš i Dosije Đavolja varoš gratis, mejlom. Što više dosijea uzmeš, veći je popust, do 20 %, a poručuješ na dosijebalkan.com.",
+  "images": [
+   "img/s-cp-3-koraka/01.jpg"
+  ]
+ },
+ {
+  "id": "r-cp-netflix",
+  "date": "2026-11-13",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Crni petak - Netflix (reklama V18)",
+  "caption": "Ovog Crnog petka ugasi Netflix i otvori dosije. Ovde nema sledeće epizode: dokazi su na stolu, a ubicu tražiš ti. Uz svaku porudžbinu Dosije Đavolja varoš ti je gratis, a što više dosijea uzmeš, veći je popust, na dosijebalkan.com.",
+  "images": [],
+  "video": "img/r-cp-netflix/01.mp4"
+ },
+ {
+  "id": "s-cp-paket",
+  "date": "2026-11-15",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "Crni petak - paket popusti (reklama S56)",
+  "caption": "Crni petak: što više dosijea, veći popust. Za 2 dosijea -10 %, za 3 dosijea -15 %, a za sva 4 -20 %, pa plaćaš 8.448 din umesto 10.560, i uz svaku porudžbinu stiže Dosije Đavolja varoš gratis. Popust se računa sam u korpi na dosijebalkan.com, a plaćaš pouzećem.",
+  "images": [
+   "img/s-cp-paket/01.jpg"
+  ]
+ },
+ {
+  "id": "s-cp-sumrak",
+  "date": "2026-11-17",
+  "time": "19:00",
+  "kind": "Slika",
+  "name": "Crni petak - Đavolja varoš sumrak (reklama S33)",
+  "caption": "Za Crni petak uz svaku porudžbinu stiže i novi slučaj, Dosije Đavolja varoš, gratis. Svadba 1987, legenda o okamenjenim svatovima i zločin koji rešavaš ti. Poruči na dosijebalkan.com, plaćaš pouzećem.",
+  "images": [
+   "img/s-cp-sumrak/01.jpg"
+  ]
  }
 ]

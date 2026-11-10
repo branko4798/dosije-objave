@@ -805,5 +805,35 @@
   "images": [
    "img/s-cp-sumrak/01.jpg"
   ]
+ },
+ {
+  "id": "r-tesla",
+  "date": "2026-11-14",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels - Tesla (v2)",
+  "caption": "U januaru 1943. u hotelskoj sobi u Njujorku umro je Nikola Tesla, a američka država ubrzo je zaplenila sve njegove stvari. Plašili su se izuma koji su novine zvale zrak smrti.\n\nFBI je na početku zabeležio oko 80 kovčega, a u Rijeku je 1951. stiglo 60. Gde su ostali?\n\nSlike: Wikimedia Commons; Muzej Nikole Tesle, Boban Marković (CC BY-SA 4.0)",
+  "images": [],
+  "video": "img/r-tesla/01.mp4"
+ },
+ {
+  "id": "r-vanga",
+  "date": "2026-11-16",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels - Baba Vanga (v2)",
+  "caption": "Baba Vanga, slepa vidovnjakinja iz Bugarske, umrla je 1996. i nije zapisala nijedno proročanstvo. Ipak, svake Nove godine novine širom sveta pišu šta je predvidela.\n\nŽena koja ju je znala tridesetak godina rekla je da su se predviđanja o napadu na Njujork i podmornici Kursk pojavila tek posle Vangine smrti. Ko onda piše njena proročanstva?\n\nSlike: Wikimedia Commons; Maraschino Cherry (CC BY 4.0), Vasilmitov (CC BY 3.0), Kiril Simeonovski (CC BY-SA 4.0), In-cognito (CC BY-SA 3.0)",
+  "images": [],
+  "video": "img/r-vanga/01.mp4"
+ },
+ {
+  "id": "r-karadjordje",
+  "date": "2026-11-18",
+  "time": "20:00",
+  "kind": "Reels",
+  "name": "Organski reels - Karađorđe (v2)",
+  "caption": "Karađorđe, vođa Prvog srpskog ustanka, ubijen je u snu 1817, u kolibi kod Velike Plane. Do te kolibe doveo ga je rođeni kum.\n\nZna se ko ga je ubio, ali ni posle dvesta godina nije dokazano ko je naredio ubistvo. Šta se zaista desilo u Radovanjskom lugu?\n\nSlike: Wikimedia Commons; Vanilica, Maja1407, M Todorovic (CC BY-SA 4.0), Badseed (CC BY-SA 3.0), Tilemahos Efthimiadis (CC BY-SA 2.0)",
+  "images": [],
+  "video": "img/r-karadjordje/01.mp4"
  }
 ]
